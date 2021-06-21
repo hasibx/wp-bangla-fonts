@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ### Features of Plugin
 
-[http://webdevil.xyz/bnfont/cover.png][product-screenshot]](https://github.com/hasibx/wp-bangla-fonts)
+[http://webdevil.xyz/bnfont/cover.png][product-screenshot]](https://github.com/hasibx/wp-bangla-fonts)]
 
 Bangla Stylish Fonts for WordPress is an amazing plugin to add various attractive font in your website. It will change your website's default font to your chosen bangla font. It's very easy to setup and user friendly!
 
